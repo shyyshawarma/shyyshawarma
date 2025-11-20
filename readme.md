@@ -5,10 +5,9 @@
   <img src="https://i.pinimg.com/originals/59/e1/8f/59e18f5ab8f18d6c6d2c8a6a7f0d5e7e.gif" alt="App Development Animation" style="width:100%;">
 </div>
 <div align="center">
-  <!-- GitHub Trophies -->
-  <img src="[https://github-profile-trophy.vercel.app/?username=shyyshawarma&theme=radical&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=shyyshawarma&theme=radical&no-frame=true&row=1&column=7&cache=1
-)" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=shyyshawarma&theme=radical&no-frame=true&row=1&column=7&cache=1" />
 </div>
+
 <!-- Matrix Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation">
