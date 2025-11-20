@@ -5,7 +5,9 @@
   <img src="https://i.pinimg.com/originals/59/e1/8f/59e18f5ab8f18d6c6d2c8a6a7f0d5e7e.gif" alt="App Development Animation" style="width:100%;">
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shyyshawarma&theme=radical&no-frame=true&row=1&column=7&cache=1" />
+  <img src="https://github-trophies.vercel.app/?username=shyyshawarma&theme=radical" />
+
+
 </div>
 
 <!-- Matrix Animation -->
