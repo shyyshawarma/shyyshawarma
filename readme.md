@@ -6,7 +6,8 @@
 </div>
 <div align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=shyyshawarma&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+  <img src="[https://github-profile-trophy.vercel.app/?username=shyyshawarma&theme=radical&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=shyyshawarma&theme=radical&no-frame=true&row=1&column=7&cache=1
+)" alt="GitHub Trophies">
 </div>
 <!-- Matrix Animation -->
 <div align="center">
